@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Dental Records
  *
- * @author Student
+ * @author Sofia Garcia
  * @see DentalRecords
  */
 public class DentalRecords {
